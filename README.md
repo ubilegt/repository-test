@@ -3,7 +3,7 @@
 int main() {
 	int i,n,a[100];
 	int max;
-	printf("array n = ");
+	printf("array n= ");
 	scanf("%d" , &n);
 	for(i=0;i<n;i++){
 		printf("enter array[%d]=" , i);
